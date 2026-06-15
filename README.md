@@ -4,9 +4,6 @@ A collection of Python and FastAPI projects developed for learning backend devel
 
 ## Projects
 
-- Library Management API
-- Bookstore API
-- Student Grade API
 - Bank Account Management System
 - Bookstore Management System
 - Contact Management System
@@ -16,10 +13,6 @@ A collection of Python and FastAPI projects developed for learning backend devel
 ## Technologies
 
 - Python
-- FastAPI
-- SQLite
 - Pandas
 - JSON
 - CSV
-- REST API
-- Pydantic
